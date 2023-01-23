@@ -1,4 +1,4 @@
-# Minecraft_Clone
+# Minecraft Clone
 
 This is a minecraft clone, written in c/c++ using openGL. The purpose of the project is to get familiar and comfortable with openGL and learn more about graphics and game programming.
 
