@@ -17,11 +17,11 @@ Function Loader: GLAD
 
 ## To Do
 
-[] Create the project in Visual Studio
-[] Link GLFW and GLAD into the project
-[] Create the window
-[] Get the openGL version number printed on the screen
-[] Setup functions to handle mouse and controller input
+- [ ] Create the project in Visual Studio
+- [ ] Link GLFW and GLAD into the project
+- [ ] Create the window
+- [ ] Get the openGL version number printed on the screen
+- [ ] Setup functions to handle mouse and controller input
 
 ## Contributing
 
